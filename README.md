@@ -17,9 +17,9 @@ VIPER is a Python-based tool for reading pressure data from a Kurt J. Lesker 392
 sudo apt install nix-bin
 ```
 
-- Otherwise, **Nix** can be installed here: [https://nixos.org/download/](url) 
+- Otherwise, **Nix** can be installed here: [https://nixos.org/download/](https://nixos.org/download/) 
 
-- This project utilises **Nix** flakes which are currently an experimental feature within **Nix**. To learn more about flakes (which you should) go here: [https://nix.dev/concepts/flakes.html](url). To enable **Nix** flakes, add this line to the file /etc/nix/nix.conf
+- This project utilises **Nix** flakes which are currently an experimental feature within **Nix**. To learn more about flakes (which you should) go here: [https://nix.dev/concepts/flakes.html](https://nix.dev/concepts/flakes.html). To enable **Nix** flakes, add this line to the file /etc/nix/nix.conf
 
 ```
 experimental-features = nix-command flakes
